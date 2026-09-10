@@ -6,6 +6,7 @@
 
 int main()
 {
+    //Hello
     bool running = true;
 
      std::cout << "Welcome to the game!\n";
